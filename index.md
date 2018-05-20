@@ -1,5 +1,5 @@
 
-# Typème : Transcription typémique
+# Typème
 
 # Transcription typémique
 
