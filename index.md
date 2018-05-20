@@ -1,6 +1,6 @@
 
-# First
-123
+# Typème : Transcription typémique
 
-# Second
-abc
+# Transcription typémique
+
+# Typématique d’un grammairien orthographiste
