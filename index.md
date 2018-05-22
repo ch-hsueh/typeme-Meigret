@@ -1,4 +1,4 @@
-# Transcription typémique sur l’écriture de L. Meigret (1500-1558)
+## Transcription typémique sur l’écriture de L. Meigret (1500-1558)
 Pour une philologie progressive des textes grammaticaux et orthographistes de Louis Meigret (1500 ca -1558 ca)
 
 ### Brève présentation des textes pris en compte
