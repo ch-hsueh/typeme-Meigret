@@ -1,4 +1,4 @@
-# Transcription typémique sur l’écriture de L. Meigret
+# Transcription typémique sur l’écriture de L. Meigret (1500-1558)
 Pour une philologie progressive des textes grammaticaux et orthographistes de Louis Meigret (1500 ca -1558 ca)
 
 ## Brève présentation des textes pris en compte
@@ -8,7 +8,7 @@ Deux outils sont à disposition de ceux qui voudraient participer à la philolog
 
 ## Edition txm
 **Concordance par le lemme français moderne + Transcription courante + Image alignée**
-TXM est un [logiciel à télécharger et installer](http://textometrie.ens-lyon.fr/)
+Télécharger et installer le logiciel [TXM](http://textometrie.ens-lyon.fr/) pour ouvrir l’édition txm que je prépare
 ![alt text](https://ch-hsueh.github.io/typemes-Meigret/demo/concordance_alignement.PNG)
 Cet alignement de texte - image offre une meilleure ergonomie au contributeur. La concordance (faire un double-clic sur le pivot) renvoie à l’endroit du mot (graphie) en question, permet une vérification des segments (morphèmes) examinés. 
 
