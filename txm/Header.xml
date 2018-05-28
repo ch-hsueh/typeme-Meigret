@@ -1,0 +1,39 @@
+<!-- http://www.bvh.univ-tours.fr/XML-TEI/ManuelWeb/Manuel_TEI_BVH.html#TEI.respStmt -->
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Le męnteur, ou l’inCREDVLE DE LVCIAN TRAduit de Grȩc en Françoȩs par Louís Meigrȩt Lionoȩs, auȩq vne ecritture q’adrant à la prolaçíon Françoȩze : ȩ lȩs rȩ́zons. </title>
+                <author>Louis Meigret</author>
+                <editor>Christian Wechel</editor>
+                <respStmt>
+                    <resp>Encodage et révision<date>2018</date></resp>
+                    <name>Chia-Hung Hsueh, doctorant à l’ED Science du langage de l’Univeristé Paris-Diderot, au Laboratoire Histoire des Théories Linguistiques</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Chia-Hung Hsueh</authority>
+                <availability><p>Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 (CC BY-NC-SA 4.0). https://creativecommons.org/licenses/by-nc-sa/4.0/<date>2018</date></p>
+                    <p>L’établissement du présent fichier est redevable à l’édition sur le site Virga (https://virga.org/phon16/index.php?item=3) qui sous la licence “CC BY-NC-SA 2.5” (https://creativecommons.org/licenses/by-nc-sa/2.5/deed.fr), et à O. Bettens qui, auteur du site, transmet avec générosité son document xml à l’auteur de ces lignes. La modification entreprise d’ici est considérable, pour bénéficier les fonctionnalités du logiciel TXM, et pour que le contenu de ce fichier soit plus ouvert aux autres améliorations ultérieures. Voir le « Manuel de transTyp » pour plus d’infos (https://docs.google.com/document/d/1zlyANP00PDoK0NOjskhTjgiT0pZ5nJzWs1pqIqBKpTA/edit?usp=sharing).
+                </p></availability>
+            </publicationStmt>
+            <sourceDesc>                
+                <p> pdf téléchargeable sur Google Livre (https://books.google.fr/books?id=XsgYg2W4ZaEC) </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo><txm:application ident="TreeTagger" version="3.2" resp="txm">
+        <txm:commandLine>  <txm:os name="Windows 7" arch="x86"></txm:os>  <txm:osSeparator file="&amp;#92;" path="&amp;#59;" line="&amp;#x0D;"></txm:osSeparator>  <txm:program name="tree-tagger" path="~/TXM/treetagger/bin" desc="TreeTagger is the name of the project TreeTagger" version="3.2"></txm:program>  <txm:args>    <txm:arg name="token" type="none"></txm:arg>    <txm:arg name="lemma" type="none"></txm:arg>    <txm:arg name="sgml" type="none"></txm:arg>    <txm:arg name="no-unknown" type="none"></txm:arg>    <txm:arg name="eos-tag" type="String">&amp;lt;s&gt;</txm:arg>    <txm:arg name="model" type="String">C:\Program Files\treetagger\models\fr.par</txm:arg>    <txm:arg name="input" type="String">C:\Users\Hsueh\TXM\corpora\M1548V\treetagger\M1548.xml.tt</txm:arg>    <txm:arg name="output" type="String">C:\Users\Hsueh\TXM\corpora\M1548V\treetagger\M1548.xml.tt-out.tt</txm:arg>  </txm:args></txm:commandLine>
+        <ab type="annotation">
+            <list>
+                <item><ref type="tagset" target="#frpos"></ref></item>
+                <item><ref type="tagset" target="#frlemma"></ref></item>
+            </list></ab></txm:application></appInfo><classDecl><taxonomy id="frpos"><bibl><title>pos tagset built from model C:\Program Files\treetagger\models\fr.par</title></bibl>
+            </taxonomy>
+                <taxonomy id="frlemma"><bibl><title>fr lemma of the model C:\Program Files\treetagger\models\fr.par - </title></bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+</TEI>
