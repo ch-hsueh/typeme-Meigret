@@ -9,12 +9,12 @@ Deux outils sont à disposition de ceux qui voudraient participer à la philolog
 ### Edition txm
 **Concordance par le lemme français moderne + Transcription courante + Image alignée**
 Télécharger et installer le logiciel [TXM](http://textometrie.ens-lyon.fr/) pour ouvrir l’édition txm que je prépare
-![alt text](https://ch-hsueh.github.io/typemes-Meigret/demo/concordance_alignement.PNG)
+![alt text](https://ch-hsueh.github.io/typemes-Meigret/img/Manuel/0_concordance_alignement.PNG)
 Cet alignement de texte - image offre une meilleure ergonomie au contributeur. La concordance (faire un double-clic sur le pivot) renvoie à l’endroit du mot (graphie) en question, permet une vérification des segments (morphèmes) examinés. 
 
 ### transTyp gsheet
 **Mise en parallèle des graphies différentes, existantes et potentielles**
-![alt text](https://ch-hsueh.github.io/typemes-Meigret/demo/gsheet.PNG)
+![alt text](https://ch-hsueh.github.io/typemes-Meigret/img/Manuel/0_gsheet.PNG)
 Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, position). Les différentes graphies saisies sont mises côte à côte, et ouvertes aux améliorations ponctuelles ou systématiques. (Pour plus d’info sur le problème de tokenisation, voir la Spécificaiton)
 
 
