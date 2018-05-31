@@ -36,4 +36,3 @@ Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, po
 # M1542 : Traité sur l’écriture (1542)
  = Traité sur l’écriture (1542, TRAITE TOVchant le commun vſaGE DE L’ESCRITVRE FRANCOISE FAICT PAR LOYS Meigret Lyonnois, [publié] par Denis Ianot)
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624664b). Pas d’édition numérique, à ma connaissance.
-* (plus tard, peut-être ...)
