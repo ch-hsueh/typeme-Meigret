@@ -20,7 +20,7 @@ Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, po
 
 
 # M1550 : *La Grammaire* (1550)
- = Le trętté de la GRAMMĘRE FRANC̨OĘze, fȩt par Louís Meigrȩt Líonoȩs, [publié] Chés Chreſtian Wechel)
+ = Le trętté de la GRAMMĘRE FRANC̨OĘze, fȩt par Louís Meigrȩt Líonoȩs, [publié] Chés Chreſtian Wechel
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624665r). Deux éditions numériques de la Grammaire sont mise en ligne et en accès libre, sur le site [CTLF Textes](http://ctlf.ens-lyon.fr/t_resul.asp?aut=287&nom=Meigret&prenom=Luis), et sur le site [Virga](https://virga.org/phon16/index.php?item=6). 
 * [M1550.txm téléchargeable](https://github.com/ch-hsueh/typemes-Meigret/raw/master/txm/M1550.txm) (Cette édition ne couvre que les premières 20 feuillets, soit 40 pages.)
 * transTyp_M1550 (à venir)
@@ -34,5 +34,5 @@ Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, po
 
 
 # M1542 : Le *Traité sur l’écriture* (1542)
- = Traité sur l’écriture (1542, TRAITE TOVchant le commun vſaGE DE L’ESCRITVRE FRANCOISE FAICT PAR LOYS Meigret Lyonnois, [publié] par Denis Ianot)
+ = Traité sur l’écriture (1542, TRAITE TOVchant le commun vſaGE DE L’ESCRITVRE FRANCOISE FAICT PAR LOYS Meigret Lyonnois, [publié] par Denis Ianot
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624664b). Pas d’édition numérique, à ma connaissance.
