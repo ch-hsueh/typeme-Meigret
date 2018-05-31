@@ -3,7 +3,7 @@
 Pour une philologie progressive des textes grammaticaux et orthographistes des textes grammaticaux de Louis Meigret (1500 ca - 1558 ca), et leur transcription typémique
 
 # Brève présentation des textes pris en compte
-Louis Meigret (ca 1500 - ca 1558) a laissé plusieurs textes intéressants pour qui s’intéresse aux idées sur l’écriture dans l’histoire des théories linguistiques. Trois d’entre eux en particulier font l’objet de notre traitement : La *Grammaire* (1550), La préface au *Menteur* (1548), Le *Traité sur l’écriture* (1542), 
+Louis Meigret (ca 1500 - ca 1558) a laissé plusieurs textes intéressants pour qui s’intéresse aux idées sur l’écriture dans l’histoire des théories linguistiques. Trois d’entre eux en particulier font l’objet de notre traitement : La *Grammaire* (1550), La préface au *Menteur* (1548), Le *Traité sur l’écriture* (1542).
 
 Deux outils sont à disposition de ceux qui voudraient participer à la philologie progressive d’ici.
 
@@ -19,20 +19,20 @@ Cet alignement de texte - image offre une meilleure ergonomie au contributeur. L
 Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, position). Les différentes graphies saisies sont mises côte à côte, et ouvertes aux améliorations ponctuelles ou systématiques. (Pour plus d’info sur le problème de tokenisation, voir la Spécificaiton)
 
 
-# M1550 : La Grammaire (1550)
+# M1550 : *La Grammaire* (1550)
  = Le trętté de la GRAMMĘRE FRANC̨OĘze, fȩt par Louís Meigrȩt Líonoȩs, [publié] Chés Chreſtian Wechel)
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624665r). Deux éditions numériques de la Grammaire sont mise en ligne et en accès libre, sur le site [CTLF Textes](http://ctlf.ens-lyon.fr/t_resul.asp?aut=287&nom=Meigret&prenom=Luis), et sur le site [Virga](https://virga.org/phon16/index.php?item=6). 
 * [M1550.txm téléchargeable](https://github.com/ch-hsueh/typemes-Meigret/raw/master/txm/M1550.txm) (Cette édition ne couvre que les premières 20 feuillets, soit 40 pages.)
 * transTyp_M1550 (à venir)
 
 
-# M1548 : La préface au Menteur (1548)
+# M1548 : La préface au *Menteur* (1548)
  = Le męnteur, ou l’inCREDVLE DE LVCIAN TRAduit de Grȩc en Françoȩs par Louís Meigrȩt Lionoȩs, auȩq vne ecritture q’adrant à la prolaçíon Françoȩze : ȩ lȩs rȩ́zons, [publié] Chés Chreſtian Wechel
 * pdf sur [Google Livre](https://books.google.fr/books?id=XsgYg2W4ZaEC). Pas d’édition numérique, à ma connaissance.
 * [M1548.txm téléchargeable](https://github.com/ch-hsueh/typemes-Meigret/raw/master/txm/M1548.txm)
 * [transTyp_M1548.gsheet](https://docs.google.com/spreadsheets/d/1X5SNNZZ2k22Gn6UJXl0ipS1BknHfXGqoSBBnWw6tPGc/edit?usp=sharing)
 
 
-# M1542 : Traité sur l’écriture (1542)
+# M1542 : Le *Traité sur l’écriture* (1542)
  = Traité sur l’écriture (1542, TRAITE TOVchant le commun vſaGE DE L’ESCRITVRE FRANCOISE FAICT PAR LOYS Meigret Lyonnois, [publié] par Denis Ianot)
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624664b). Pas d’édition numérique, à ma connaissance.
