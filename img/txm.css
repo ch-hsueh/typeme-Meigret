@@ -4,13 +4,19 @@
    @author cbourdot
    @author sheiden
 
-   TXM default CSS 06-2017
+   TXM CSS adapté par Hsueh 06-2018
 
 */
 
+.formenotable{
+	color:green; 
+}
+
 .txmeditionpage {
-	background-color: #f8f7ee;
-	font-family: junicode, verdana;
+	background-color: white;
+	font-family: Garamond, Junicode;
+	font-style: italic;
+	font-weight: bold;
 	font-size: 14px;
 	text-indent: none;
 	text-align: justify;
@@ -23,14 +29,17 @@
 
 .txmeditionpb {
 	text-align: center;
+	font-style: normal;
 }
 
 .txmeditionpb::before {
 	content: "- ";
+	font-style: normal;
 }
 
 .txmeditionpb::after {
 	content: " -";
+	font-style: normal;
 }
 
 .txmlettrinep:first-letter {
@@ -46,10 +55,16 @@ a {
 
 h1 {
 	font-size: 20px;
-	font-variant: small-caps;
+	font-style: normal;
+	/* font-variant: small-caps; */
 	text-align: center;
 	color:#802520;
 }
+
+h2{
+	font-style: normal;
+}
+
 
 .right {
 	font-size: 18px;
@@ -72,15 +87,16 @@ h1 {
 
 h3 {
 	font-size: 16px;
+	font-style: normal;
 	font-variant: small-caps;
 	text-align: center;
 	color:#802520;
 }
 
 p {
-    	text-indent: 0.2cm;
+    text-indent: 0.2cm;
 	text-align: justify;
-    	text-justify: inter-word;	
+    text-justify: inter-word;	
   }
 
 img {
