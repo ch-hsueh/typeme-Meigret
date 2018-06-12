@@ -55,6 +55,7 @@
 
 .page {
 	color:blue;
+	font-style: normal;
 	position: relative;
 	/* position: -webkit-sticky; */
 	/* position: sticky; */
