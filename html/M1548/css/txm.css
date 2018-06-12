@@ -13,15 +13,19 @@
 }
 
 .txmeditionpage {
+	position: absolute;
+	left: 0;
+	/* https://www.w3schools.com/Css/css_positioning.asp */
 	background-color: white;
 	font-family: Garamond, Junicode;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 20px;
+	/* color:black; */
 	text-indent: none;
 	text-align: justify;
 	box-shadow: .3125em .3125em .625em 0 #888;
-	margin: 1.25em auto;
+	margin: auto;
 	padding: 1.25em;
 	width: 470px;
 	min-height: 90%;
@@ -49,8 +53,14 @@
     margin-right: 0.2em;
 }
 
-a {
-	color:#802520;
+.page {
+	color:blue;
+	position: relative;
+	/* position: -webkit-sticky; */
+	/* position: sticky; */
+	top: 0;
+	padding: 5px;
+	alt: "image alignée";
 }
 
 h1 {
@@ -102,7 +112,13 @@ p {
   }
 
 img {
-    margin: 10px 10px 10px 10px;
+	float:right;
+	max-width: 50%;
+    height: auto;
+	border: 3px solid grey;
+	/*margin: 10px 10px 10px 10px;
+	align: right;
+	text-align:right;*/
 }
 
 td[rend="table-cell-align-right"] {
