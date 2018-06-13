@@ -15,7 +15,7 @@ Cet alignement de texte - image offre une meilleure ergonomie au contributeur. L
 
 ## transTyp.gsheet
 **Mise en parallèle des graphies différentes, existantes et potentielles**
-![alt text](https://ch-hsueh.github.io/typemes-Meigret/img/Manuel/3_chantier_interface.PNG)
+![alt text](https://ch-hsueh.github.io/typemes-Meigret/img/Manuel/3_chantier_interface.png)
 Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, position). Les différentes graphies saisies sont mises côte à côte, et ouvertes aux améliorations ponctuelles ou systématiques. (Pour plus d’info sur le problème de tokenisation, voir la [Manuel](https://docs.google.com/document/d/1zlyANP00PDoK0NOjskhTjgiT0pZ5nJzWs1pqIqBKpTA/edit?usp=sharing))
 
 
