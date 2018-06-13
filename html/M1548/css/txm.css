@@ -122,14 +122,15 @@ img {
 	text-align:right;*/
 }
 
-td[rend="table-cell-align-right"] {
-	text-align: right;
-}
+/* td[rend="table-cell-align-right"] { */
+	/* text-align: right; */
+/* } */
 
 td[rend="table-cell-align-left"] {
 	text-align: left;
+	padding: 15px;
 }
 
-td[rend="table-cell-align-center"] {
-	text-align: center;
-}
+/* td[rend="table-cell-align-center"] { */
+	/* text-align: center; */
+/* } */
