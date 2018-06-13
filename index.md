@@ -31,7 +31,7 @@ Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, po
 * pdf sur [Google Livre](https://books.google.fr/books?id=XsgYg2W4ZaEC). Pas d’édition numérique, à ma connaissance.
 * [M1548.txm téléchargeable](https://github.com/ch-hsueh/typemes-Meigret/raw/master/txm/M1548.txm)
 * [transTyp_M1548.gsheet](https://docs.google.com/spreadsheets/d/1X5SNNZZ2k22Gn6UJXl0ipS1BknHfXGqoSBBnWw6tPGc/edit?usp=sharing)
-* [M1548 mis en ligne](https://ch-hsueh.github.io/typemes-Meigret/html/M1548/M1548_2.html)
+* [M1548 consultable en ligne](https://ch-hsueh.github.io/typemes-Meigret/html/M1548/M1548_2.html)
 
 
 # M1542 : Le *Traité sur l’écriture* (1542)
