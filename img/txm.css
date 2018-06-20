@@ -8,20 +8,38 @@
 
 */
 
-.formenotable{
+.regularisee{
+	/* formenotable */
 	color:green; 
 }
 
+.variante{
+	color:#434343
+	/* 墨綠 #20410f
+	border-style : dotted;
+	border-bottom: dotted;
+	 1px dashed #000000 */
+}
+
+.attribut{
+	/*color:#0b5394; */
+	border-bottom: 2px dotted #0b5394;
+}
+
 .txmeditionpage {
+	position: absolute;
+	left: 0;
+	/* https://www.w3schools.com/Css/css_positioning.asp */
 	background-color: white;
-	font-family: Garamond, Junicode;
+	font-family: Garamond, Junicode, Times New Roman;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 20px;
+	/* color:black; */
 	text-indent: none;
 	text-align: justify;
 	box-shadow: .3125em .3125em .625em 0 #888;
-	margin: 1.25em auto;
+	margin: auto;
 	padding: 1.25em;
 	width: 470px;
 	min-height: 90%;
@@ -49,8 +67,15 @@
     margin-right: 0.2em;
 }
 
-a {
-	color:#802520;
+.page {
+	color:blue;
+	font-style: normal;
+	position: relative;
+	/* position: -webkit-sticky; */
+	/* position: sticky; */
+	top: 0;
+	padding: 5px;
+	alt: image alignée;
 }
 
 h1 {
@@ -102,17 +127,29 @@ p {
   }
 
 img {
-    margin: 10px 10px 10px 10px;
+	float:right;
+	max-width: 50%;
+    height: auto;
+	border: 3px solid grey;
+	/*margin: 10px 10px 10px 10px;
+	align: right;
+	text-align:right;*/
 }
 
-td[rend="table-cell-align-right"] {
-	text-align: right;
+hr {
+	float:bottom;
+	text-align:left;
 }
+
+/* td[rend="table-cell-align-right"] { */
+	/* text-align: right; */
+/* } */
 
 td[rend="table-cell-align-left"] {
 	text-align: left;
+	padding: 15px;
 }
 
-td[rend="table-cell-align-center"] {
-	text-align: center;
-}
+/* td[rend="table-cell-align-center"] { */
+	/* text-align: center; */
+/* } */

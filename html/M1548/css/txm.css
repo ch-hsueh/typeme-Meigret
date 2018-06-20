@@ -8,8 +8,22 @@
 
 */
 
-.formenotable{
+.regularisee{
+	/* formenotable */
 	color:green; 
+}
+
+.variante{
+	color:#434343
+	/* 墨綠 #20410f
+	border-style : dotted;
+	border-bottom: dotted;
+	 1px dashed #000000 */
+}
+
+.attribut{
+	/*color:#0b5394; */
+	border-bottom: 2px dotted #0b5394;
 }
 
 .txmeditionpage {
@@ -17,7 +31,7 @@
 	left: 0;
 	/* https://www.w3schools.com/Css/css_positioning.asp */
 	background-color: white;
-	font-family: Garamond, Junicode;
+	font-family: Garamond, Junicode, Times New Roman;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 20px;
@@ -78,7 +92,7 @@ h2{
 	text-align: center;
 }
 
-
+/*
 .right {
 	font-size: 18px;
 	text-align: right;
@@ -93,10 +107,10 @@ h2{
 
 .middle{
 	font-size: 18px;
-	/*font-variant: small-caps; */
 	text-align: center;
 	color:#802520;
 }
+ */
 
 h3 {
 	font-size: 16px;
@@ -120,6 +134,13 @@ img {
 	/*margin: 10px 10px 10px 10px;
 	align: right;
 	text-align:right;*/
+}
+
+hr {
+	position: initial;
+ 	right: 0;
+	bottom: 0;
+	width: 100%;
 }
 
 /* td[rend="table-cell-align-right"] { */
