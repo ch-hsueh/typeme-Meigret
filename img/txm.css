@@ -26,10 +26,22 @@
 	border-bottom: 2px dotted #0b5394;
 }
 
+.page {
+	color:blue;
+	font-style: normal;
+	position: relative;
+	font-size: 100%;
+	/* position: -webkit-sticky; */
+	/* position: sticky; */
+	top: 0;
+	padding: 5px;
+	alt: image alignée;
+}
+
 .txmeditionpage {
+	/* https://www.w3schools.com/Css/css_positioning.asp */
 	position: absolute;
 	left: 0;
-	/* https://www.w3schools.com/Css/css_positioning.asp */
 	background-color: white;
 	font-family: Garamond, Junicode, Times New Roman;
 	font-style: italic;
@@ -67,17 +79,6 @@
     margin-right: 0.2em;
 }
 
-.page {
-	color:blue;
-	font-style: normal;
-	position: relative;
-	/* position: -webkit-sticky; */
-	/* position: sticky; */
-	top: 0;
-	padding: 5px;
-	alt: image alignée;
-}
-
 h1 {
 	font-size: 20px;
 	font-style: normal;
@@ -92,7 +93,7 @@ h2{
 	text-align: center;
 }
 
-
+/*
 .right {
 	font-size: 18px;
 	text-align: right;
@@ -107,10 +108,10 @@ h2{
 
 .middle{
 	font-size: 18px;
-	/*font-variant: small-caps; */
 	text-align: center;
 	color:#802520;
 }
+ */
 
 h3 {
 	font-size: 16px;
@@ -127,18 +128,42 @@ p {
   }
 
 img {
+	/* https://www.w3schools.com/cssref/pr_class_float.asp */
 	float:right;
 	max-width: 50%;
     height: auto;
 	border: 3px solid grey;
-	/*margin: 10px 10px 10px 10px;
+	/* margin: 10px 10px 10px 10px;
 	align: right;
-	text-align:right;*/
+	text-align:right; */
+}
+
+a {
+	font-size: smaller;
+}
+
+/* https://www.w3schools.com/tags/tag_sup.asp
+sup { 
+    vertical-align: super;
+    font-size: smaller;
+}
+*/
+
+fn {
+	/* https://www.commentcamarche.com/contents/501-paragraphes-en-html */
+	font-family: Times New Roman;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 75%;
+	/* https://www.w3schools.com/cssref/pr_dim_line-height.asp */
+	line-height: 1.5;
 }
 
 hr {
-	float:bottom;
+	width: 100%;
+	/* https://www.w3schools.com/tags/att_hr_align.asp */
 	text-align:left;
+	margin-left:0;
 }
 
 /* td[rend="table-cell-align-right"] { */

@@ -26,6 +26,18 @@
 	border-bottom: 2px dotted #0b5394;
 }
 
+.page {
+	color:blue;
+	font-style: normal;
+	position: relative;
+	font-size: 100%;
+	/* position: -webkit-sticky; */
+	/* position: sticky; */
+	top: 0;
+	padding: 5px;
+	alt: image alignée;
+}
+
 .txmeditionpage {
 	/* https://www.w3schools.com/Css/css_positioning.asp */
 	position: absolute;
@@ -65,18 +77,6 @@
     font-size: 6em;
     line-height: 1;
     margin-right: 0.2em;
-}
-
-.page {
-	color:blue;
-	font-style: normal;
-	position: relative;
-	font-size: 100%;
-	/* position: -webkit-sticky; */
-	/* position: sticky; */
-	top: 0;
-	padding: 5px;
-	alt: image alignée;
 }
 
 h1 {
