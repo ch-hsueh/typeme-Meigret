@@ -1,0 +1,179 @@
+/*  
+   Copyright © 2017 ENS de Lyon, CNRS, University of Franche-Comté
+   Licensed under the terms of the GNU General Public License (http://www.gnu.org/licenses)
+   @author cbourdot
+   @author sheiden
+
+   TXM CSS adapté par Hsueh 06-2018
+
+*/
+
+.regularisee{
+	/* formenotable */
+	color:green; 
+}
+
+.variante{
+	color:#434343
+	/* 墨綠 #20410f
+	border-style : dotted;
+	border-bottom: dotted;
+	 1px dashed #000000 */
+}
+
+.attribut{
+	/*color:#0b5394; */
+	border-bottom: 2px dotted #0b5394;
+}
+
+.page {
+	color:blue;
+	font-style: normal;
+	position: relative;
+	font-size: 100%;
+	/* position: -webkit-sticky; */
+	/* position: sticky; */
+	top: 0;
+	padding: 5px;
+	alt: image alignée;
+}
+
+.txmeditionpage {
+	/* https://www.w3schools.com/Css/css_positioning.asp */
+	position: absolute;
+	left: 0;
+	background-color: white;
+	font-family: Times New Roman, Garamond, Junicode;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	/* color:black; */
+	text-indent: none;
+	text-align: justify;
+	box-shadow: .3125em .3125em .625em 0 #888;
+	margin: auto;
+	padding: 1.25em;
+	width: 570px;
+	min-height: 90%;
+}
+
+.txmeditionpb {
+	text-align: center;
+	font-style: normal;
+}
+
+.txmeditionpb::before {
+	content: "- ";
+	font-style: normal;
+}
+
+.txmeditionpb::after {
+	content: " -";
+	font-style: normal;
+}
+
+.txmlettrinep:first-letter {
+    float: left;
+    font-size: 6em;
+    line-height: 1;
+    margin-right: 0.2em;
+}
+
+h1 {
+	font-size: 20px;
+	font-style: normal;
+	/* font-variant: small-caps; */
+	text-align: center;
+	color:#802520;
+}
+
+h2{
+	font-size: 22px;
+	font-style: normal;
+	text-align: center;
+}
+
+/*
+.right {
+	font-size: 18px;
+	text-align: right;
+	color:#802520;
+}
+
+.left {
+	font-size: 18px;
+	text-align: left;
+	color:#802520;
+}
+
+.middle{
+	font-size: 18px;
+	text-align: center;
+	color:#802520;
+}
+ */
+
+h3 {
+	font-size: 16px;
+	font-style: normal;
+	font-variant: small-caps;
+	text-align: center;
+	color:#802520;
+}
+
+p {
+    text-indent: 0.2cm;
+	text-align: justify;
+    text-justify: inter-word;	
+  }
+
+img {
+	float:right;
+	max-width: 50%;
+    height: auto;
+	border: 3px solid grey;
+	/*margin: 10px 10px 10px 10px;
+	align: right;
+	text-align:right;*/
+}
+
+a {
+	font-size: smaller;
+}
+
+/* https://www.w3schools.com/tags/tag_sup.asp
+sup { 
+    vertical-align: super;
+    font-size: smaller;
+}
+*/
+
+fn {
+	/* https://www.commentcamarche.com/contents/501-paragraphes-en-html */
+	font-family: Times New Roman;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 75%;
+	/* https://www.w3schools.com/cssref/pr_dim_line-height.asp */
+	line-height: 1.5;
+}
+
+hr {
+	width: 100%;
+	/* https://www.w3schools.com/tags/att_hr_align.asp */
+	text-align:left;
+	margin-left:0;
+}
+
+/* td[rend="table-cell-align-right"] { */
+	/* text-align: right; */
+/* } */
+
+td[rend="table-cell-align-left"] {
+	text-align: left;
+	padding: 15px;
+}
+
+/* td[rend="table-cell-align-center"] { */
+	/* text-align: center; */
+/* } */
