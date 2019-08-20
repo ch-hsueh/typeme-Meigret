@@ -1,6 +1,6 @@
 # typemes-Meigret
 
-Pour une philologie progressive des textes grammaticaux et orthographistes des textes grammaticaux de Louis Meigret (1500 ca - 1558 ca), et leur transcription typémique
+Pour une philologie progressive des textes grammaticaux et orthographistes des textes grammaticaux de Louis Meigret (1500 ca - 1558 ca), et leur transcription typémique.
 
 # Brève présentation des textes pris en compte
 Louis Meigret (ca 1500 - ca 1558) a laissé plusieurs textes intéressants pour qui s’intéresse aux idées sur l’écriture dans l’histoire des théories linguistiques. Trois d’entre eux en particulier font l’objet de notre traitement : La *Grammaire* (1550), La préface au *Menteur* (1548), Le *Traité sur l’écriture* (1542).
@@ -19,7 +19,7 @@ Cet alignement de texte - image offre une meilleure ergonomie au contributeur. L
 Tout mot (graphie) est numéroté (grâce au TXM), et localisé (page, ligne, position). Les différentes graphies saisies sont mises côte à côte, et ouvertes aux améliorations ponctuelles ou systématiques. (Pour plus d’info sur le problème de tokenisation, voir la [Manuel](https://docs.google.com/document/d/1zlyANP00PDoK0NOjskhTjgiT0pZ5nJzWs1pqIqBKpTA/edit?usp=sharing))
 
 
-# M1550b : *La Grammaire* (1550)
+# M1550b : La *Grammaire* (1550)
  = Le trętté de la GRAMMĘRE FRANC̨OĘze, fȩt par Louís Meigrȩt Líonoȩs, [publié] Chés Chreſtian Wechel
 * pdf sur [Gallica](http://gallica.bnf.fr/ark:/12148/btv1b8624665r). Deux éditions numériques de la Grammaire sont mise en ligne et en accès libre, sur le site [CTLF Textes](http://ctlf.ens-lyon.fr/t_resul.asp?aut=287&nom=Meigret&prenom=Luis), et sur le site [Virga](https://virga.org/phon16/index.php?item=6). 
 * [M1550b.txm téléchargeable](https://github.com/ch-hsueh/typemes-Meigret/raw/master/txm/M1550.txm) (Cette édition ne couvre que les premières 20 feuillets, soit 40 pages.)
